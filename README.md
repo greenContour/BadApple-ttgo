@@ -1,4 +1,5 @@
 # BadApple!
+- uses[Bodmer TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) library
 - completely standalone
 - only every third frame (2/3 are skipped)
 ## Demo: 
